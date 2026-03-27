@@ -44,7 +44,7 @@
 
 - `ConcreteCars.cs`
   - Отдельный класс для каждой марки автомобиля из `CarTypes.cs`.
-  - Пример: `TeslaModelS`, `Zeekr`, `BMW`, `LadaGranta`, `Lamborghini` и др.
+  - Пример: `Tesla`, `Zeekr`, `BMW`, `LadaGranta`, `Lamborghini` и др.
 
 - `CarFactory.cs`
   - `CarFactory.Create(CarType type)` возвращает нужный `ICar`.
