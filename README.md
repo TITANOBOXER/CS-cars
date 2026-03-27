@@ -58,7 +58,6 @@
 ## Как запустить
 
 ```powershell
-cd "d:\Projects\C#\CS-cars"
 dotnet run --project .\CS-cars.csproj
 ```
 
